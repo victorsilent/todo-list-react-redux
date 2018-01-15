@@ -7,7 +7,6 @@ class App extends Component {
     return (
       <div className="App">
         <Todos></Todos>
-        <Counter payload={8} ></Counter>
         <Filter></Filter>
       </div>
     );

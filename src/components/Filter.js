@@ -7,7 +7,7 @@ const Filter = ({ onClick }) => {
         <div className="container">
             <div className="columns">
                 <div className="column is-6 is-offset-3">
-                    <a href="#" onClick={() => {onClick('SHOW_ALL')}}>Show All</a>
+                    <a href="#" onClick={() => {onClick('SHOW_ALL')}}>Show All </a>
                     <a href="#" onClick={() => {onClick('SHOW_DONE')}}>Show Done</a>
                 </div>
             </div>
