@@ -3,3 +3,5 @@
 *  React
 *  Redux
 *  Bulma
+
+Link: https://victorsilent.github.io/todo-list-react-redux/
